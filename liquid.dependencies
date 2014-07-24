@@ -36,15 +36,15 @@
     "target_path": "hardware/qcom/display-caf-new"
   },
   {
-    "remote": "gh",
-    "revision": "cm-11.0",
-    "repository": "TheMuppets/proprietary_vendor_sony",
-    "target_path": "vendor/sony"
-  },
-  {
     "remote": "ls",
     "revision": "kitkat",
     "repository": "android_hardware_qcom_media-caf-new",
     "target_path": "hardware/qcom/media-caf-new"
+  },
+  {
+    "remote": "tm",
+    "revision": "cm-11.0",
+    "repository": "proprietary_vendor_sony",
+    "target_path": "vendor/sony"
   }
 ]

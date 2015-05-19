@@ -32,9 +32,8 @@ PRODUCT_COPY_FILES += \
     device/sony/honami/rootdir/system/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     device/sony/honami/rootdir/system/etc/sensors_calib.conf:system/etc/sensors_calib.conf
 
-PRODUCT_NAME := aosp_c6903
 PRODUCT_DEVICE := honami
-PRODUCT_MODEL := Xperia Z1 (AOSP)
+PRODUCT_MODEL := Xperia Z1
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 

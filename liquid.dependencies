@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "lsd",
+    "repository": "android_device_sony_rhine",
+    "target_path": "device/sony/rhine",
+    "revision": "5.1"
+  },
+]
